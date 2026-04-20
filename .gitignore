@@ -1,0 +1,12 @@
+# Игнорируем тяжелые данные и веса
+data/
+weights/
+pretrained_models/
+
+# Игнорируем кэш питона
+__pycache__/
+*.pyc
+.DS_Store
+
+# Игнорируем временные файлы Jupyter
+.ipynb_checkpoints/
